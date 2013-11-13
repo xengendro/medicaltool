@@ -2,7 +2,7 @@ package medicaltool
 
 class Enfermedad {
 
-    Stringa nombre
+    String nombre
 
 
     static constraints = {
